@@ -1,6 +1,6 @@
-# Trivia Titans: Multi-Cloud Serverless Collaborative Trivia Challenge Game
+# Trivia Titans: Multi-Cloud Serverless Application
 
-Welcome to the **Trivia Titans** project! This is a multi-cloud serverless online trivia game that enables users to form teams, compete in real-time, and track their progress on leaderboards.
+Welcome to the **Trivia Titans** project! This multi-cloud serverless online trivia game enables users to form teams, compete in real time, and track their progress on leaderboards.
 
 ## Table of Contents
 
