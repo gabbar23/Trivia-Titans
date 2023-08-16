@@ -109,7 +109,7 @@ The project leverages the following cloud services from both AWS and GCP:
 To set up the project locally, follow these steps:
 
 1. Clone this repository.
-2. Set up AWS and GCP accounts and obtain necessary credentials.
+2. Set up AWS and GCP accounts and obtain the necessary credentials.
 3. Configure AWS and GCP services accordingly.
 4. Install project dependencies.
 5. Run the project locally for development or deploy to respective cloud platforms for production.
@@ -125,7 +125,11 @@ To set up the project locally, follow these steps:
 7. Customize your profile, manage teams, and explore achievements.
 8. Admins can manage trivia content and gain insights from analytics tools.
 
-
+## Contributors
+1. Amanjot Singh (Amanjot Singh)
+2. Adriana Sanchez (ad897964@dal.ca)
+3. Raj Soni (raj.soni@dal.ca)
+4. Parthil Patel (parthilpatel66@dal.ca)
 
 ## License
 
